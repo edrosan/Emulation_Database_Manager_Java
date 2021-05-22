@@ -1,0 +1,11 @@
+EMPLOYEES,EMPLOYEE_ID,1,6,FIRST_NAME,7,26,LAST_NAME,27,51,EMAIL,52,76,PHONE_NUMBER,77,97,HIRE_DATE,98,105,JOB_ID,106,115,SALARY,116,124,COMMISSION_PCT,125,127,MANAGER_ID,128,133,DEPARTMENT_ID,134,137
+100   Steven              King                     SKING                    515.123.4567         17/06/87AD_PRES   24000             90  
+101   Neena               Kochhar                  NKOCHHAR                 515.123.4568         21/09/89AD_VP     17000        100  90  
+102   Lex                 De Haan                  LDEHAAN                  515.123.4569         13/01/93AD_VP     17000        100  90  
+103   Alexander           Hunold                   AHUNOLD                  590.423.4567         03/01/90IT_PROG   9000         102  60  
+104   Bruce               Ernst                    BERNST                   590.423.4568         21/05/91IT_PROG   6000         103  60  
+105   David               Austin                   DAUSTIN                  590.423.4569         25/06/97IT_PROG   4800         103  60  
+106   Valli               Pataballa                VPATABAL                 590.423.4560         05/02/98IT_PROG   4800         103  60  
+107   Diana               Lorentz                  DLORENTZ                 590.423.5567         07/02/99IT_PROG   4200	        103  60  
+108   Nancy               Greenberg                NGREENBE                 515.124.4569         17/08/94FI_MGR    12000        101  100 
+109   Daniel              Faviet                   DFAVIET                  515.124.4169         16/08/94FI_ACCOUNT9000         108  100 

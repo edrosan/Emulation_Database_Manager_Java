@@ -1,0 +1,7 @@
+DEPARTMENTS,DEPARTMENT_ID,1,4,DEPARTMENT_NAME,5,34,MANAGER_ID,35,40,LOCATION_ID,41,44
+10  Administration                200   1700
+20  Marketing                     201   1800
+30  Purchasing                    114   1700
+40  Human Resources               203   2400
+50  Shipping                      121   1500
+60  IT                            103   1400

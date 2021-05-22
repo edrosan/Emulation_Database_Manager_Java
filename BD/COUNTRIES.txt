@@ -1,0 +1,26 @@
+COUNTRIES,COUNTRY_ID,1,2,COUNTRY_NAME,3,42,REGION_ID,43,43
+ARArgentina                               2
+AUAustralia                               3
+BEBelgium                                 1
+BRBrazil                                  2
+CACanada                                  2
+CHSwitzerland                             1
+CNChina                                   3
+DEGermany                                 1
+DKDenmark                                 1
+EGEgypt                                   4
+FRFrance                                  1
+HKHongKong                                3
+ILIsrael                                  4
+INIndia                                   3
+ITItaly                                   1
+JPJapan                                   3
+KWKuwait                                  4
+MXMexico                                  2
+NGNigeria                                 4
+NLNetherlands                             1
+SGSingapore                               3
+UKUnited Kingdom                          1
+USUnited States of America                2
+ZMZambia                                  4
+ZWZimbabwe                                4
